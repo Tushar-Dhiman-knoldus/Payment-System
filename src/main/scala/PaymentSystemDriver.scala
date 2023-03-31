@@ -1,4 +1,3 @@
-
 package com.knoldus.paymentsystem
 
 object PaymentSystemDriver extends App {
